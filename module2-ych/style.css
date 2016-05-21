@@ -23,7 +23,7 @@ div{
 	border:1px solid black;
 	overflow:auto;
 	float:left;
-	height:300px;
+	height:220px;
 	margin:15px 1%;
 	background-color: #FFF8ED;
 }
@@ -52,7 +52,7 @@ color:white;
 }
 
 p{
-clear:right;
+clear:both;
 font-family:Georgia;
 font-size:20px;
 color:#442200;
